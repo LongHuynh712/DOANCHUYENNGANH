@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\dtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\dtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\dtos\\formadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\dtos\\formadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|d:\\dacn_mangmaytinh\\be_qlcutruktx_2\\qlcutruktx\\qlcutruktx\\migrations\\20251218054538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1248443-3258-40BC-B2D5-D8EEED724CB5}|QLCuTruKTX\\QLCuTruKTX.csproj|solutionrelative:qlcutruktx\\migrations\\20251218054538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QLCuTruKTX\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T06:22:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:51:23.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251218054538_InitialCreate.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Migrations\\20251218054538_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Migrations\\20251218054538_InitialCreate.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Migrations\\20251218054538_InitialCreate.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Migrations\\20251218054538_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:45:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:13:22.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:28:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Models\\Attendance.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\Attendance.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:27:17.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:08:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\News.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Models\\News.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\News.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:08:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDtos.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\StudentDtos.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\DTOs\\StudentDtos.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\StudentDtos.cs",
+              "RelativeToolTip": "QLCuTruKTX\\DTOs\\StudentDtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:08:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MaintenanceStatus.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\MaintenanceStatus.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Models\\MaintenanceStatus.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\MaintenanceStatus.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Models\\MaintenanceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:16:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormsController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\FormsController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\FormsController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\FormsController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\FormsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:12:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAdminDto.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\FormAdminDto.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\DTOs\\FormAdminDto.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\FormAdminDto.cs",
+              "RelativeToolTip": "QLCuTruKTX\\DTOs\\FormAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:12:06.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:51:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardStatsDto.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\DashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\DTOs\\DashboardStatsDto.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\DTOs\\DashboardStatsDto.cs",
+              "RelativeToolTip": "QLCuTruKTX\\DTOs\\DashboardStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:05:23.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatsService.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Services\\StatsService.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Services\\StatsService.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Services\\StatsService.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Services\\StatsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:58:34.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:55:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:37:42.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Program.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Program.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Program.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Program.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAgwPEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:35:47.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Models\\ChatMessage.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:33:50.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:33:06.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Services\\JwtService.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Services\\JwtService.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Services\\JwtService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:44:16.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:34:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "QLCuTruKTX\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\DACN_MangMayTinh\\BE_QLCuTruKTX_2\\QLCuTruKTX\\QLCuTruKTX\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "QLCuTruKTX\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:26:24.161Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
